@@ -1,0 +1,7 @@
+/* src/components/Home/Home.css */
+.banner-container {
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust as needed */
+}
